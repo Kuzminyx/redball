@@ -1,0 +1,7 @@
+images {
+  image: "/main/image/\320\272\320\260\320\274\320\265\320\275\321\214.png"
+}
+images {
+  image: "/main/image/\321\210\320\260\321\200\320\270\320\272.png"
+}
+extrude_borders: 2
