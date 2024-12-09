@@ -20,5 +20,5 @@ title = redball
 
 [physics]
 gravity_y = -500.0
-scale = 0.02
+scale = 0.1
 
